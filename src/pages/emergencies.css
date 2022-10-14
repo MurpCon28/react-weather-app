@@ -1,0 +1,72 @@
+.infoPageHeading {
+    text-align: center;
+    font-weight: 700;
+}
+
+.pageDetails {
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.imageDesign {
+    height: 600px;
+}
+
+.imageSnowDesign {
+    height: 750px;
+}
+
+.imageSnowmanDesign {
+    height: 600px;
+    width: 1300px;
+}
+
+.infoPageHeadingDark {
+    text-align: center;
+    font-weight: 700;
+    color: black;
+}
+
+.pageDetailsDark {
+    text-align: center;
+    font-weight: 600;
+    font-size: 16px;
+    color: black;
+}
+
+.transparentBackground {
+    background-color: transparent;
+}
+
+.warning {
+    color: red;
+    font-weight: 700;
+}
+
+.minorWarning {
+    color: rgb(255, 67, 67);
+    font-weight: 600;
+}
+
+.listDetails {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.testcolour {
+    background-color: rgb(173, 173, 173);
+    min-width: 100%;
+    padding-top:20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+}
+
+.imageHeight {
+    height: 700px;
+    width: 600px;
+}
+
+.fontCentre {
+    text-align: center;
+}
