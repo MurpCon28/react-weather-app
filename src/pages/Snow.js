@@ -88,13 +88,13 @@ const Snow = () => {
             <h5 className='infoPageHeading'>Protect Your Family</h5>
             <ListGroup variant="flush">
               <ListGroup.Item className='transparentBackground listDetails'>Talk with your family about what to do if a winter storm watch or warning is issued.</ListGroup.Item>
-              <ListGroup.Item className='transparentBackground listDetails'>Have your vehicle winterized before the winter storm season to decrease your chance of being stranded.
+              <ListGroup.Item className='transparentBackground listDetails'><span className='boldFont'>Have your vehicle winterized before the winter storm season to decrease your chance of being stranded.</span>
                 <ListGroup.Item className='transparentBackground'>Have a mechanic check your battery, antifreeze, wipers and windshield washer fluid, ignition system, thermostat, lights,
                   flashing hazard lights, exhaust system, heater, brakes, defroster, and oil.</ListGroup.Item>
                 <ListGroup.Item className='transparentBackground'>Install good winter tires with adequate tread. All-weather radials are usually adequate but some jurisdictions require
                   vehicles to be equipped with chains or snow tires with studs.</ListGroup.Item>
               </ListGroup.Item>
-              <ListGroup.Item className='transparentBackground listDetails'>Keep in your vehicle:
+              <ListGroup.Item className='transparentBackground listDetails'><span className='boldFont'>Keep in your vehicle:</span>
                 <ListGroup.Item className='transparentBackground'>A windshield scraper and small broom.</ListGroup.Item>
                 <ListGroup.Item className='transparentBackground'>A small sack of sand for generating traction under wheels and a set of tire chains or traction mats.</ListGroup.Item>
                 <ListGroup.Item className='transparentBackground'>Matches in a waterproof container.</ListGroup.Item>
@@ -211,7 +211,7 @@ const Snow = () => {
             <h5 className='infoPageHeading'>Driving in Winter Conditions</h5>
             <ListGroup variant="flush">
               <ListGroup.Item className='transparentBackground listDetails'>Check your vehicle emergency supplies kit and replenish it if necessary.</ListGroup.Item>
-              <ListGroup.Item className='transparentBackground listDetails'>Bring enough of the following for each person:
+              <ListGroup.Item className='transparentBackground listDetails'><span className='boldFont'>Bring enough of the following for each person:</span>
                 <ListGroup.Item className='transparentBackground listDetails'>Blankets or sleeping bag.</ListGroup.Item>
                 <ListGroup.Item className='transparentBackground listDetails'>Rain gear, extra sets of dry clothing, mittens, socks, and wool hats.</ListGroup.Item>
                 <ListGroup.Item className='transparentBackground listDetails'>Newspapers for insulation.</ListGroup.Item>
@@ -276,7 +276,7 @@ const Snow = () => {
           <h5 className='infoPageHeading'>Avoid Frostbite and Hypothermia</h5>
           <ListGroup variant="flush">
             <ListGroup.Item className='transparentBackground listDetails'>Frostbite and hypothermia are cold-related emergencies that may quickly become life or limb threatening.</ListGroup.Item>
-            <ListGroup.Item className='transparentBackground listDetails'>Take these steps to avoid frostbite and hypothermia:
+            <ListGroup.Item className='transparentBackground listDetails'><span className='boldFont'>Take these steps to avoid frostbite and hypothermia:</span>
               <ListGroup.Item className='transparentBackground listDetails'>Be aware of the wind chill. Dress appropriately and avoid staying in the cold too long. Wear a hat and gloves when 
               appropriate with layers of clothing. Avoid unnecessary exposure of any part of the body to the cold.</ListGroup.Item>
               <ListGroup.Item className='transparentBackground listDetails'>Drink plenty of warm fluids or warm water but avoid caffeine and alcohol. Stay active to maintain body heat.</ListGroup.Item>

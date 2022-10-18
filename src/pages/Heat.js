@@ -150,8 +150,8 @@ const Heat = () => {
             <ListGroup.Item className='transparentBackground listDetails'>Make sure you have enough water to drink. It is important to stay hydrated</ListGroup.Item>
             <ListGroup.Item className='transparentBackground listDetails'>You might like to leave a few drinks in the fridge.</ListGroup.Item>
             <ListGroup.Item className='transparentBackground listDetails'>An adult needs approximately 2 litres of liquid over 24 hours. This may be less for smaller people or those with medical conditions.</ListGroup.Item>
-            <ListGroup.Item className='transparentBackground listDetails'>Check-in on older adults and individuals with chronic health conditions at least twice daily. When visiting,
-              ask yourself these questions:
+            <ListGroup.Item className='transparentBackground listDetails'>Check-in on older adults and individuals with chronic health conditions at least twice daily. <span className='boldFont'>When visiting,
+              ask yourself these questions:</span>
               <ListGroup.Item className='transparentBackground'>Are they drinking enough water?</ListGroup.Item>
               <ListGroup.Item className='transparentBackground'>Do they have access to air conditioning?</ListGroup.Item>
               <ListGroup.Item className='transparentBackground'>Do they know how to keep cool?</ListGroup.Item>
