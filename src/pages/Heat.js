@@ -185,7 +185,8 @@ const Heat = () => {
           </Col>
         </Row>
         <Row>
-          <Col>
+          <Col></Col>
+          <Col xs={8}>
             <br />
             <h5 className='infoPageHeading'>Safety Basics</h5>
             <ListGroup variant="flush">
@@ -196,6 +197,7 @@ const Heat = () => {
               dizzy or weak, get to fresh air right away — do not delay.</span></ListGroup.Item>
             </ListGroup>
           </Col>
+          <Col></Col>
         </Row>
         <Row>
           <Col>

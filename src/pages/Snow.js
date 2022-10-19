@@ -49,7 +49,8 @@ const Snow = () => {
       </Row>
       <br />
       <Row>
-        <Col>
+        <Col></Col>
+        <Col xs={8}>
           <Card className='transparentBackground'>
             <Card.Body>
               <Card.Title className='infoPageHeading'>Other winter storm words to listen for:</Card.Title>
@@ -74,6 +75,7 @@ const Snow = () => {
             </Card.Body>
           </Card>
         </Col>
+        <Col></Col>
       </Row>
       <br />
       <div className='testcolour'>

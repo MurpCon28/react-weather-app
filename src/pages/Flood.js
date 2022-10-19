@@ -120,10 +120,10 @@ const Flood = () => {
             </ListGroup>
           </Col>
         </Row>
+        <br />
         <Row>
-          <Col>
-            <br />
-            <br />
+          <Col></Col>
+          <Col xs={8}>
             <h5 className='infoPageHeading'>Protecting Your Pets & Animals</h5>
             <ListGroup variant="flush">
               <ListGroup.Item className='transparentBackground listDetails fontCentre'>Prepare a pet emergency kit for your companion animals.</ListGroup.Item>
@@ -131,6 +131,7 @@ const Flood = () => {
               <ListGroup.Item className='transparentBackground listDetails fontCentre'>If installing or changing fence lines, consider placing them in such a way that your animals are able to move to higher ground in the event of flooding.</ListGroup.Item>
             </ListGroup>
           </Col>
+          <Col></Col>
         </Row>
       </div>
       <br />
@@ -234,8 +235,10 @@ const Flood = () => {
             </ListGroup>
           </Col>
         </Row>
+        <br />
         <Row>
-          <Col>
+          <Col></Col>
+          <Col xs={8}>
             <br />
             <h5 className='infoPageHeading'>Ask a Professional</h5>
             <ListGroup variant="flush">
@@ -247,6 +250,7 @@ const Flood = () => {
               <ListGroup.Item className='transparentBackground listDetails fontCentre'>Seal walls in basements with waterproofing compounds to avoid seepage through cracks.</ListGroup.Item>
             </ListGroup>
           </Col>
+          <Col></Col>
         </Row>
       </div>
       <br />
