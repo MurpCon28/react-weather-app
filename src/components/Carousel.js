@@ -7,7 +7,7 @@ function UncontrolledExample() {
       <Carousel.Item>
         <img
           className="d-block height w-100"
-          src="homeWeatherPics/cloudySunHills.png"
+          src=".homeWeatherPics/cloudySunHills.png"
           alt="First slide"
         />
         <Carousel.Caption>
